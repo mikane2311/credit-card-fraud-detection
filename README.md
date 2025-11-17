@@ -114,13 +114,10 @@ A monitoring section is included to simulate:
 | Model               | AUC      | Average Precision | Notes                      |
 |---------------------|----------|-------------------|----------------------------|
 | Logistic Regression |  Good    |  Stable           | Great baseline             |
-| LightGBM            |  Best    |  Best             | Recommended  |
+| LightGBM            |  Best    |  Best             | Recommended                |
 | Isolation Forest    |  Low     |  Low              | Use as anomaly signal      |
 
 
-------------------------------------------------------------------------------
-##Dataset :
-https://www.kaggle.com/mlg-ulb/creditcardfraud/version/3
 
 -------------------------------------------------------------------------------
 
@@ -132,5 +129,6 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud/version/3
 
 ##  Dataset
 Credit Card Fraud dataset (Kaggle)
+https://www.kaggle.com/mlg-ulb/creditcardfraud/version/3
 
 ------------------------------------------------------------------------------
