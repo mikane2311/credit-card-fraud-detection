@@ -26,11 +26,17 @@ A **Streamlit web application** is built to interactively test transactions usin
 ##  Project Structure
 
 ├── notebook.ipynb # Main notebook with full ML pipeline
+
 ├── app.py # Streamlit web app
+
 ├── model_lr.pkl # Saved Logistic Regression model
+
 ├── model_lgb.pkl # Saved LightGBM model
+
 ├── model_isoforest.pkl # Saved Isolation Forest model
+
 ├── scaler.pkl # Scaler for input preprocessing
+
 ├── README.md # Project documentation
 
 -------------------------------------------------------------
